@@ -1,4 +1,2 @@
 bbc
 bbbc
-abc
-dfdf
